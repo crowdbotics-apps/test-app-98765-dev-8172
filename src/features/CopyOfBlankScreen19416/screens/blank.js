@@ -72,7 +72,7 @@ export class _Blank extends React.Component {
           paddingTop: 5,
           paddingBottom: 5,
           overflow: "visible",
-          textAlign: "center",
+          textAlign: "left",
           verticalAlign: "baseline",
           fontSize: 12,
           color: "#000000",
