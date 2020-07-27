@@ -93,9 +93,7 @@ export class _Blank extends React.Component {
           letterSpacing: 0
         }}
       >
-        Sample text content demo text for text element for multiple line new
-        text with updated data sdf sdfsdfasdf sdfsdfsdfhelo sdf sdf dsdd sdf \d
-        dasdfsdf
+        Sample text conten
       </Text>
     </View>
   )
