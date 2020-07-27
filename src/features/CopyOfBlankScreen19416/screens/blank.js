@@ -94,7 +94,7 @@ export class _Blank extends React.Component {
         }}
       >
         Sample text content&lt;br&gt;demo text for text element&lt;br&gt;for
-        multiple line
+        multiple line new text with updated data
       </Text>
     </View>
   )
