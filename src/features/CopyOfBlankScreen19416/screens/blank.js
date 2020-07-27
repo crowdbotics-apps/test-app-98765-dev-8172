@@ -94,8 +94,8 @@ export class _Blank extends React.Component {
         }}
       >
         Sample text content demo text for text element for multiple line new
-        text with updated data
-        sdf&lt;br&gt;&lt;br&gt;sdfsdfasdf&lt;br&gt;&lt;br&gt;sdfsdfsdfhelo&lt;br&gt;sdf&lt;br&gt;sdf&lt;br&gt;ds&lt;br&gt;&lt;br&gt;kj&lt;br&gt;j&lt;br&gt;
+        text with updated data sdf sdfsdfasdf sdfsdfsdfhelo sdf sdf dsdd sdf \d
+        dasdfsdf
       </Text>
     </View>
   )
