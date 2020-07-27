@@ -1,6 +1,6 @@
 import axios from "axios"
 const testapp98765API = axios.create({
-  baseURL: "https://test-app-98765-dev-8172.herokuapp.com/",
+  baseURL: "https://test-app-98765-dev-8172.botics.co/",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 function api_v1_customtext_list() {
