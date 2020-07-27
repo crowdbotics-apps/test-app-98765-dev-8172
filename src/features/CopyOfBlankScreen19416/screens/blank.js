@@ -93,9 +93,9 @@ export class _Blank extends React.Component {
           letterSpacing: 0
         }}
       >
-        Sample text content&lt;br&gt;demo text for text element&lt;br&gt;for
-        multiple line new text with updated
-        data&lt;br&gt;sdf&lt;br&gt;&lt;br&gt;sdfsdfasdf&lt;br&gt;&lt;br&gt;sdfsdfsdf
+        Sample text content demo text for text element&lt;br&gt;for multiple
+        line new text with updated
+        data&lt;br&gt;sdf&lt;br&gt;&lt;br&gt;sdfsdfasdf&lt;br&gt;&lt;br&gt;sdfsdfsdfhelo
       </Text>
     </View>
   )
